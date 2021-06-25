@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OhZbDthAsj6zy4sba/HBhqVLITcd+62VYAQyhzjjrqV8nZqMLxDAxiIBvXkRnpqMeMBl9v+SkGuNpkICtIhZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ravindu Prasath\\source\\repos\\WpfApp3\\WpfApp3\\WpfApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ravindu Prasath\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\Ravindu Prasath\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
